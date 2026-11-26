@@ -3,7 +3,7 @@
   "name": "accounting-cash-coding-api",
   "display_name": "Accounting Cash Coding API",
   "description": "Authenticated API adapter for cash coding batches.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\CashCodingApi\\CashCodingApiServiceProvider",
   "requires": {
